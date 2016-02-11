@@ -1,0 +1,13 @@
+del *.exe
+del *.obj
+del *.o
+del *.*~
+del NICKNAME.DAT
+del f1.txt
+del f2.txt
+del sample.dat
+del records.dat
+del newdir\temp.txt
+del test.txt
+del test.dat
+rmdir newdir
